@@ -4,3 +4,4 @@
 /preprocessing.py
 /train_ARIMA.py
 /train_LSTM.py
+/data
